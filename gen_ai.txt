@@ -1,0 +1,7 @@
+## LLM
+Ref: https://docs.cohere.com/docs/introduction-to-large-language-models
+
+Krish naik gen ai roadmap: https://github.com/krishnaik06/Roadmap-To-Learn-Generative-AI-In-2024/tree/main
+Stanford: https://stanford-cs324.github.io/winter2022/lectures/introduction/
+ML tutorial: https://docs.google.com/spreadsheets/d/12ua10iRYLtxTWi05jBSAxEMM_104nTr8S4nC2cmN9BQ/edit#gid=0
+https://deepgram.com/learn/foundational-courses-to-learn-large-language-models#cs324--large-language-models-stanford-university
