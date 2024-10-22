@@ -1,0 +1,11 @@
+copy the path:-  C:\Users\HP\OneDrive\Desktop\end to end
+open anaconda prompt and change directory:- cd C:\Users\HP\OneDrive\Desktop\end to end
+type 'conda .' to open vs code of folder 'end to end'
+open terminal and create an environment:- conda create -p myenv python==3.8 -y
+activate environment:- conda activate myenv/
+initiate git:-  git init(it creates an empty git repository)
+add readme.md file either in vs code(after creating file in terminal type git add readme.md) or directly in github
+git branch -M main
+git remote add origin https://github.com/durgaprasad-attaluri/MLProjects.git
+to check: git remote -v
+now push- git push -u origin main
