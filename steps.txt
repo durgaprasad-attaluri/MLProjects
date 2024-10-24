@@ -9,3 +9,4 @@ git branch -M main
 git remote add origin https://github.com/durgaprasad-attaluri/MLProjects.git
 to check: git remote -v
 now push- git push -u origin main
+ to check whether code commited or not use 'git log'
